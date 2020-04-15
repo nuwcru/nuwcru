@@ -26,10 +26,10 @@ df %>%
    theme_nuwcru()
 ```
 
-![](https://github.com/nuwcru/nuwcru_vis/blob/master/images/example_reds.jpg) 
+![](https://github.com/nuwcru/nuwcru/blob/master/images/example_reds.jpg) 
 
 <p align="center">
-  <img width="600" src="https://github.com/nuwcru/nuwcru_vis/blob/master/images/palette.png">
+  <img width="600" src="https://github.com/nuwcru/nuwcru/blob/master/images/palette.png">
 </p>
 
 <br/>
@@ -43,5 +43,5 @@ See general purpose logo below. For presentations and documents, see additional 
 <br/>
 
 <p align="center">
-  <img width="350" src="https://github.com/nuwcru/nuwcru_vis/blob/master/images/logo2.jpg">
+  <img width="350" src="https://github.com/nuwcru/nuwcru/blob/master/images/logo2.jpg">
 </p>
