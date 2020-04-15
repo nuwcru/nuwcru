@@ -22,9 +22,9 @@
 	.st16{fill:#5E5E5E;}
 	.st17{fill:#7F7F7F;}
 	.st18{fill:#9C9C9C;}
-	.st19{fill:#B8B8B8;}
-	.st20{fill:#D4D4D4;}
-	.st21{fill:#E8E8E8;}
+	.st19{fill:#CCCCCC;}
+	.st20{fill:#E0E0E0;}
+	.st21{fill:#EFEFEF;}
 	.st22{fill:#F7F8F9;}
 	.st23{fill:#444444;}
 </style>
@@ -38,35 +38,31 @@
 <rect x="166.89" y="12.69" class="st7" width="44.48" height="44.48"/>
 <rect x="218.42" y="12.69" class="st8" width="44.48" height="44.48"/>
 <rect x="115.36" y="13.36" class="st9" width="44.48" height="44.48"/>
-<text transform="matrix(1 0 0 1 25.8259 71.7824)" class="st10 st11 st12">red[1]</text>
-<text transform="matrix(1 0 0 1 76.7995 71.7824)" class="st10 st11 st12">red[2]</text>
-<text transform="matrix(1 0 0 1 127.2185 71.7824)" class="st10 st11 st12">red[3]</text>
-<text transform="matrix(1 0 0 1 179.5769 71.7824)" class="st10 st11 st12">red[4]</text>
-<text transform="matrix(1 0 0 1 230.5505 71.7824)" class="st13 st11 st12">red[5]</text>
-<text transform="matrix(1 0 0 1 25.8259 23.8556)" class="st10 st11 st12">blue[1]</text>
-<text transform="matrix(1 0 0 1 76.7995 23.8556)" class="st10 st11 st12">blue[2]</text>
-<text transform="matrix(1 0 0 1 127.2185 23.8556)" class="st10 st11 st12">blue[3]</text>
-<text transform="matrix(1 0 0 1 179.5769 23.8556)" class="st10 st11 st12">blue[4]</text>
-<text transform="matrix(1 0 0 1 230.5505 23.8556)" class="st13 st11 st12">blue[5]</text>
-<g>
-	<rect x="268.49" y="12.69" class="st14" width="44.48" height="44.48"/>
-	<rect x="320.02" y="12.69" class="st15" width="44.48" height="44.48"/>
-	<rect x="371.55" y="12.69" class="st16" width="44.48" height="44.48"/>
-	<rect x="423.09" y="12.69" class="st17" width="44.48" height="44.48"/>
-	<text transform="matrix(1 0 0 1 282.0208 27.6191)" class="st10 st11 st12">grey[1]</text>
-	<text transform="matrix(1 0 0 1 332.9945 27.6191)" class="st10 st11 st12">grey[2]</text>
-	<text transform="matrix(1 0 0 1 383.4134 27.6191)" class="st10 st11 st12">grey[3]</text>
-	<text transform="matrix(1 0 0 1 435.7718 27.6191)" class="st10 st11 st12">grey[4]</text>
-</g>
-<g>
-	<rect x="268.49" y="62.27" class="st18" width="44.48" height="44.48"/>
-	<rect x="320.02" y="62.27" class="st19" width="44.48" height="44.48"/>
-	<rect x="371.55" y="62.27" class="st20" width="44.48" height="44.48"/>
-	<rect x="423.09" y="62.27" class="st21" width="44.48" height="44.48"/>
-	<text transform="matrix(1 0 0 1 280.6149 77.2042)" class="st10 st11 st12">grey</text>
-	<text transform="matrix(1 0 0 1 292.2233 77.2042)" class="st22 st11 st12">[5]</text>
-	<text transform="matrix(1 0 0 1 331.8649 77.2042)" class="st23 st11 st12">grey[6]</text>
-	<text transform="matrix(1 0 0 1 382.0075 77.2042)" class="st23 st11 st12">grey[7]</text>
-	<text transform="matrix(1 0 0 1 435.4743 77.2042)" class="st23 st11 st12">grey[8]</text>
-</g>
+<text transform="matrix(1 0 0 1 25.8259 71.7824)" class="st10 st11 st12">red1</text>
+<text transform="matrix(1 0 0 1 76.7995 71.7824)" class="st10 st11 st12">red2</text>
+<text transform="matrix(1 0 0 1 127.2185 71.7824)" class="st10 st11 st12">red3</text>
+<text transform="matrix(1 0 0 1 179.5769 71.7824)" class="st10 st11 st12">red4</text>
+<text transform="matrix(1 0 0 1 230.5505 71.7824)" class="st13 st11 st12">red5</text>
+<text transform="matrix(1 0 0 1 25.8259 23.8556)" class="st10 st11 st12">blue1</text>
+<text transform="matrix(1 0 0 1 76.7995 23.8556)" class="st10 st11 st12">blue2</text>
+<text transform="matrix(1 0 0 1 127.2185 23.8556)" class="st10 st11 st12">blue3</text>
+<text transform="matrix(1 0 0 1 179.5769 23.8556)" class="st10 st11 st12">blue4</text>
+<text transform="matrix(1 0 0 1 230.5505 23.8556)" class="st13 st11 st12">blue5</text>
+<rect x="268.49" y="12.69" class="st14" width="44.48" height="44.48"/>
+<rect x="320.02" y="12.69" class="st15" width="44.48" height="44.48"/>
+<rect x="371.55" y="12.69" class="st16" width="44.48" height="44.48"/>
+<rect x="423.09" y="12.69" class="st17" width="44.48" height="44.48"/>
+<text transform="matrix(1 0 0 1 282.0208 23.8554)" class="st10 st11 st12">grey1</text>
+<text transform="matrix(1 0 0 1 332.9945 23.8554)" class="st10 st11 st12">grey2</text>
+<text transform="matrix(1 0 0 1 383.4134 23.8554)" class="st10 st11 st12">grey3</text>
+<text transform="matrix(1 0 0 1 435.7718 23.8554)" class="st10 st11 st12">grey4</text>
+<rect x="268.49" y="62.27" class="st18" width="44.48" height="44.48"/>
+<rect x="320.02" y="62.27" class="st19" width="44.48" height="44.48"/>
+<rect x="371.55" y="62.27" class="st20" width="44.48" height="44.48"/>
+<rect x="423.09" y="62.27" class="st21" width="44.48" height="44.48"/>
+<text transform="matrix(1 0 0 1 280.6149 71.7823)" class="st10 st11 st12">grey</text>
+<text transform="matrix(1 0 0 1 292.2233 71.7823)" class="st22 st11 st12">5</text>
+<text transform="matrix(1 0 0 1 331.8649 71.7823)" class="st23 st11 st12">grey6</text>
+<text transform="matrix(1 0 0 1 382.0075 71.7823)" class="st23 st11 st12">grey7</text>
+<text transform="matrix(1 0 0 1 435.4743 71.7823)" class="st23 st11 st12">grey8</text>
 </svg>
