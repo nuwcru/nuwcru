@@ -1,5 +1,14 @@
 # Nunavut Wildlife Cooperative Research Unit
-### A repository to help maintain consistency across all nuwcru products.
+### A source package to house useful functions in one location
+
+To install:
+
+```
+devtools::install_github("nuwcru/nuwcru")
+library(nuwcru)
+```
+
+Package contents evolve pretty quickly, so it's a good idea to reinstall (```devtools::install_github("nuwcru/nuwcru")```) before each use.
 
 
 ## Colour Palette
@@ -9,7 +18,7 @@ The primary colour used for figures is red. Differentiating between objects with
 Colour palettes are loaded by sourcing the ```nuwcru_fx.R``` script, and colours are ordered in vectors from darkest (```red[1]```) to lightest (```red[5]```):
 
 ```
-source("scripts/nuwcru_fx.R")
+library(nuwcru)
 
 df %>%
  ggplot() +
@@ -17,10 +26,10 @@ df %>%
    theme_nuwcru()
 ```
 
-![](https://github.com/nuwcru/nuwcru_vis/blob/master/images/example_reds.jpg) 
+![](https://github.com/nuwcru/nuwcru/blob/master/images/example_reds.jpg) 
 
 <p align="center">
-  <img width="600" src="https://github.com/nuwcru/nuwcru_vis/blob/master/images/palette.png">
+  <img width="600" src="https://github.com/nuwcru/nuwcru/blob/master/images/palette.png">
 </p>
 
 <br/>
@@ -34,5 +43,5 @@ See general purpose logo below. For presentations and documents, see additional 
 <br/>
 
 <p align="center">
-  <img width="350" src="https://github.com/nuwcru/nuwcru_vis/blob/master/images/logo2.jpg">
+  <img width="350" src="https://github.com/nuwcru/nuwcru/blob/master/images/logo2.jpg">
 </p>
