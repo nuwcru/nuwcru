@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 481.04 118.31" style="enable-background:new 0 0 481.04 118.31;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#AD1520;}
+	.st1{fill:#620012;}
+	.st2{fill:#C14D51;}
+	.st3{fill:#DA9193;}
+	.st4{fill:#F7DFE0;}
+	.st5{fill:#095E89;}
+	.st6{fill:#004366;}
+	.st7{fill:#AFC0C9;}
+	.st8{fill:#D0E0E8;}
+	.st9{fill:#668092;}
+	.st10{fill:#FFFFFF;}
+	.st11{font-family:'Ayuthaya';}
+	.st12{font-size:4.837px;}
+	.st13{fill:#606060;}
+	.st14{fill:#191919;}
+	.st15{fill:#424242;}
+	.st16{fill:#5E5E5E;}
+	.st17{fill:#7F7F7F;}
+	.st18{fill:#9C9C9C;}
+	.st19{fill:#B8B8B8;}
+	.st20{fill:#D4D4D4;}
+	.st21{fill:#E8E8E8;}
+	.st22{fill:#F7F8F9;}
+	.st23{fill:#444444;}
+</style>
+<rect x="63.82" y="62.27" class="st0" width="44.48" height="44.48"/>
+<rect x="12.29" y="62.27" class="st1" width="44.48" height="44.48"/>
+<rect x="115.36" y="62.27" class="st2" width="44.48" height="44.48"/>
+<rect x="166.89" y="62.27" class="st3" width="44.48" height="44.48"/>
+<rect x="218.42" y="62.27" class="st4" width="44.48" height="44.48"/>
+<rect x="63.82" y="12.69" class="st5" width="44.48" height="44.48"/>
+<rect x="12.29" y="12.69" class="st6" width="44.48" height="44.48"/>
+<rect x="166.89" y="12.69" class="st7" width="44.48" height="44.48"/>
+<rect x="218.42" y="12.69" class="st8" width="44.48" height="44.48"/>
+<rect x="115.36" y="13.36" class="st9" width="44.48" height="44.48"/>
+<text transform="matrix(1 0 0 1 25.8259 71.7824)" class="st10 st11 st12">red[1]</text>
+<text transform="matrix(1 0 0 1 76.7995 71.7824)" class="st10 st11 st12">red[2]</text>
+<text transform="matrix(1 0 0 1 127.2185 71.7824)" class="st10 st11 st12">red[3]</text>
+<text transform="matrix(1 0 0 1 179.5769 71.7824)" class="st10 st11 st12">red[4]</text>
+<text transform="matrix(1 0 0 1 230.5505 71.7824)" class="st13 st11 st12">red[5]</text>
+<text transform="matrix(1 0 0 1 25.8259 23.8556)" class="st10 st11 st12">blue[1]</text>
+<text transform="matrix(1 0 0 1 76.7995 23.8556)" class="st10 st11 st12">blue[2]</text>
+<text transform="matrix(1 0 0 1 127.2185 23.8556)" class="st10 st11 st12">blue[3]</text>
+<text transform="matrix(1 0 0 1 179.5769 23.8556)" class="st10 st11 st12">blue[4]</text>
+<text transform="matrix(1 0 0 1 230.5505 23.8556)" class="st13 st11 st12">blue[5]</text>
+<g>
+	<rect x="268.49" y="12.69" class="st14" width="44.48" height="44.48"/>
+	<rect x="320.02" y="12.69" class="st15" width="44.48" height="44.48"/>
+	<rect x="371.55" y="12.69" class="st16" width="44.48" height="44.48"/>
+	<rect x="423.09" y="12.69" class="st17" width="44.48" height="44.48"/>
+	<text transform="matrix(1 0 0 1 282.0208 27.6191)" class="st10 st11 st12">grey[1]</text>
+	<text transform="matrix(1 0 0 1 332.9945 27.6191)" class="st10 st11 st12">grey[2]</text>
+	<text transform="matrix(1 0 0 1 383.4134 27.6191)" class="st10 st11 st12">grey[3]</text>
+	<text transform="matrix(1 0 0 1 435.7718 27.6191)" class="st10 st11 st12">grey[4]</text>
+</g>
+<g>
+	<rect x="268.49" y="62.27" class="st18" width="44.48" height="44.48"/>
+	<rect x="320.02" y="62.27" class="st19" width="44.48" height="44.48"/>
+	<rect x="371.55" y="62.27" class="st20" width="44.48" height="44.48"/>
+	<rect x="423.09" y="62.27" class="st21" width="44.48" height="44.48"/>
+	<text transform="matrix(1 0 0 1 280.6149 77.2042)" class="st10 st11 st12">grey</text>
+	<text transform="matrix(1 0 0 1 292.2233 77.2042)" class="st22 st11 st12">[5]</text>
+	<text transform="matrix(1 0 0 1 331.8649 77.2042)" class="st23 st11 st12">grey[6]</text>
+	<text transform="matrix(1 0 0 1 382.0075 77.2042)" class="st23 st11 st12">grey[7]</text>
+	<text transform="matrix(1 0 0 1 435.4743 77.2042)" class="st23 st11 st12">grey[8]</text>
+</g>
+</svg>
