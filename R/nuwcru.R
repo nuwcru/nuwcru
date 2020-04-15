@@ -56,28 +56,28 @@ theme_image <- function(){
 # * Colour Palettes -------------------------------------------------------
 
 # Reds
-red1  <- "#590815"
-red2  <- "#A02828"
-red3  <- "#B55454"
-red4  <- "#D19595"
-red5  <- "#F4E1E1"
+red1  <- "#620012"
+red2  <- "#AD1520"
+red3  <- "#C14D51"
+red4  <- "#DA9193"
+red5  <- "#F7DFE0"
 
 # Blues
-blue1 <- "#0F4363"
-blue2 <- "#275E86"
-blue3 <- "#6B8091"
-blue4 <- "#B3C1C9"
-blue5 <- "#D4E1E8"
+blue1 <- "#004366"
+blue2 <- "#095E89"
+blue3 <- "#668092"
+blue4 <- "#AFC0C9"
+blue5 <- "#D0E0E8"
 
 # Greys
 grey1 <- "#191919"
 grey2 <- "#424242"
 grey3 <- "#5E5E5E"
 grey4 <- "#7F7F7F"
-grey5 <- "#9D9D9D"
-grey6 <- "#B9B9B9"
-grey7 <- "#D5D5D5"
-grey8 <- "#E9E9E9"
+grey5 <- "#9C9C9C"
+grey6 <- "#CCCCCC"
+grey7 <- "#E0E0E0"
+grey8 <- "#EFEFEF"
 
 
 
