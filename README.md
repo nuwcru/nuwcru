@@ -1,5 +1,14 @@
 # Nunavut Wildlife Cooperative Research Unit
-### A repository to help maintain consistency across all nuwcru products.
+### A source package to house useful functions in one location
+
+To install:
+
+```
+devtools::install_github("nuwcru/nuwcru")
+library(nuwcru)
+```
+
+Package contents evolve pretty quickly, so it's a good idea to reinstall (```devtools::install_github("nuwcru/nuwcru")```) before each use.
 
 
 ## Colour Palette
@@ -9,7 +18,7 @@ The primary colour used for figures is red. Differentiating between objects with
 Colour palettes are loaded by sourcing the ```nuwcru_fx.R``` script, and colours are ordered in vectors from darkest (```red[1]```) to lightest (```red[5]```):
 
 ```
-source("scripts/nuwcru_fx.R")
+library(nuwcru)
 
 df %>%
  ggplot() +
