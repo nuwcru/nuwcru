@@ -12,9 +12,8 @@ Package contents evolve pretty quickly, so it's a good idea to reinstall (```dev
 
 #### Contents
 [Colour](#Colour) |
-[Loess Function](#impute.loess) |
-[KRMP](#kivalliq-raptor-monitoring-program) |
-[BIM](#baffin-raptor-monitoring-program) 
+[Loess Function](#impute) |
+[file manip](#file) |
 
 
 ## Colour
