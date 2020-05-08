@@ -10,8 +10,13 @@ library(nuwcru)
 
 Package contents evolve pretty quickly, so it's a good idea to reinstall (```devtools::install_github("nuwcru/nuwcru")```) before each use.
 
+#### Contents
+[Colour](#Colour) |
+[Loess Function](#impute) |
+[file manip](#file) |
 
-## Colour Palette
+
+## Colour
 
 The primary colour used for figures is red. Differentiating between objects within the figure is completed by varying the lightness as seen below. Greys are used to plot objects with less emphasis, or highlight regions within the figure. Blues are included in the palette for unique scenarios when the range of reds is insufficient, or it's necessary to include another colour (not the preference).
 
@@ -36,6 +41,18 @@ df %>%
 <br/>
 <br/>
 <br/>
+
+## impute.loess()
+<br/>
+<br/>
+<br/>
+
+## file_copy()
+<br/>
+<br/>
+<br/>
+
+
 
 ## Logos
 
