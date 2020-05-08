@@ -61,6 +61,14 @@ theme_image <- function(){
                                            size = 4, linetype = "blank"))
 }
 
+facet_nuwcru <- function(){
+  theme(
+    strip.text.x = element_text(size = 10, color = grey2),
+    strip.text.y = element_text(size = 10, color = grey2),
+    strip.background = element_rect(color="grey", fill="white"))
+}
+
+
 
 # * Colour Palettes -------------------------------------------------------
 
