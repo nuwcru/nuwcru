@@ -24,7 +24,8 @@ General plotting theme accessed with ```theme_nuwcru()```. You can override the 
 ```
 ggplot() +
   geom_point(data = df, aes(x = x, y = y)) +
-  theme_nuwcru() + theme(axis.x.text = element_blank())
+  theme_nuwcru() + 
+  theme(axis.x.text = element_blank())
 ```
 Consistent facetting formats can be accessed with ```facet_nuwcru()```
 
