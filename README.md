@@ -32,8 +32,6 @@ Consistent facetting formats can be accessed with ```facet_nuwcru()```
 Colour palettes are loaded with the source package, and colours are ordered from darkest (```red1```) to lightest (```red5```):
 
 ```
-library(nuwcru)
-
 df %>%
  ggplot() +
    geom_point(aes(x = x, y = y), colour = red1) +
