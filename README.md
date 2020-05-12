@@ -55,6 +55,33 @@ df %>%
 <br/>
 
 ## file_copy()
+
+This function is used to convert filenames into dates, and copy audio files to new directories depending on the time at which they were recorded. The below example copies all audio files recoreded between 1AM and 11AM.
+
+```
+source_dir <- "/Volumes/LACIE/QAM/ARU Recordings/2015/" # copy files from here
+dest_dir   <- "/Volumes/NUWCRU_DATA/wildtrax_1"       # to here
+
+
+# list all the directories in the source_dir
+dir <- list.dirs(source_dir, full.names = FALSE)
+
+
+# filter recordings so that only ones that are between 1am and 11am are copied
+for(i in 1:length(dir)){
+  file_copy(site   = paste0(dir[i]),
+            source = paste(source_dir),    # source location
+            dest  = paste(dest_dir),       # destination
+            start = 1,                     # grab all recordings between this time (1am)
+            end   = 11,                    # until this time (11am)
+            create_dir = TRUE)             # move into a new directory
+}
+
+
+
+
+```
+
 <br/>
 <br/>
 <br/>
