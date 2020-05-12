@@ -12,8 +12,8 @@ Package contents evolve pretty quickly, so it's a good idea to reinstall (```dev
 
 #### Contents
 [Colour](#Colour) |
-[Loess Function](#impute) |
-[file manip](#file) |
+[Loess Function](#Impute) |
+[file manip](#File) |
 
 
 ## Colour
