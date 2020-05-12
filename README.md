@@ -34,7 +34,9 @@ Colour palettes are loaded with the source package, and colours are ordered from
 ```R
 df %>%
  ggplot() +
-   geom_point(aes(x = x, y = y), colour = red1) +
+   geom_line(aes(x = x, y = y1), colour = red1) +
+   geom_line(aes(x = x, y = y4), colour = red4) +
+   geom_line(aes(x = x, y = y5), colour = red5) +
    theme_nuwcru()
 ```
 
