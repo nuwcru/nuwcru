@@ -194,7 +194,7 @@ cam_acc_lik <- function(a, b, L){
     my_list
   }
   else {
-    paste("Site", b, "cannot be matched", sep = " ")
+    cat("Site", b, "cannot be matched", sep = " ")
     empty_list <- data.frame("site"= b,
                              "year"= a,
                              "n"   = NA,
