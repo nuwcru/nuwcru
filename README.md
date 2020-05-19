@@ -72,7 +72,7 @@ dest_dir   <- "/Volumes/NUWCRU_DATA/wildtrax_1"       # to here
 dir <- list.dirs(source_dir, full.names = FALSE)
 
 
-# filter recordings so that only ones that are between 1am and 11am are copied
+# 1am < 11am 
 for(i in 1:length(dir)){
   file_copy(site   = paste0(dir[i]),
             source = paste(source_dir),    # source location
