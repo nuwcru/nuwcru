@@ -10,15 +10,19 @@ library(lubridate)
 
 # copy Audio files from specific times of the day over to new directory
 
-file_copy <- function(source = "/Volumes/LACIE/QAM/ARU Recordings/2015/",    # source directory
-                      dest   = "/Volumes/LACIE/Wildtrax upload 1",
+
+
+
+
+file_copy <- function(source = "/Volumes/LACIE/QAM/ARU Recordings/wavs/2015",    # source directory
+                      dest   = "/Volumes/LACIE/Wildtrax1 - 1AM-11AM/2015",
                       site = "R1Z1",
                       start = 1,         # start time
-                      end = 11,           # end time
+                      end   = 11,           # end time
                       create_dir = FALSE
 ){
 
-  files <- list.files(paste(source, site, sep = ""), ".wav$")
+  files <- list.files(paste0(source, "/", site), ".wav$")
 
   date <- str_sub(files, 6, -5)
   date <- str_replace_all(date, "_", " ")
