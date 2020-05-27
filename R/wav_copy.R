@@ -11,6 +11,7 @@ library(lubridate)
 
 # copy Audio files from specific times of the day over to new directory
 
+#' @export
 wav_copy <- function(source = "/Volumes/LACIE/QAM/ARU Recordings/wavs/2015",    # source directory
                       dest   = "/Volumes/LACIE/Wildtrax1 - 1AM-11AM/2015",
                       site = "R1Z1",
